@@ -1,2 +1,2 @@
 # Infotech
-IT dept
+**IT dept** 
