@@ -9,3 +9,10 @@ def sub(r,p):
     return k
 
 print(sub(30,20))
+
+def mul(h,l):
+    w=h*l
+    return w
+print(mul(30,20))
+
+
